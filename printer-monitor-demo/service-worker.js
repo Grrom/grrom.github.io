@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.df963051bd659fbfdc04c2aafc842aea.js"
+  "/printer-monitor-demo/precache-manifest.e009e455c2f55ed09a8894c3494659e4.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "printer-monitoring"});
