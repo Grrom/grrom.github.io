@@ -215,7 +215,7 @@
     "workbench.iconTheme": "material-icon-theme",
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.cursorBlinking": "phase",
-    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorSmoothCaretAnimation": "on",
     "editor.smoothScrolling": true,
     "zenMode.fullScreen": false,
     "terminal.external.linuxExec": "/bin/bash",
