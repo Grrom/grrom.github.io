@@ -1,16 +1,16 @@
 {
   "name": "Astronomy",
-  "image": "assets/images/astronomy.jpeg",
+  "image": "https://grrom.github.io/files/astronomy.jpeg",
   "description": "Test your knowledge of the cosmos",
   "questions": [
     {
-      "id": 1,
+      "id": "1",
       "question": "Which planet is known as the 'Red Planet'?",
       "options": ["Mercury", "Venus", "Mars", "Jupiter"],
       "answer": "Mars"
     },
     {
-      "id": 2,
+      "id": "2",
       "question": "What is the name of the galaxy that contains our Solar System?",
       "options": [
         "The Andromeda Galaxy",
@@ -21,13 +21,13 @@
       "answer": "The Milky Way"
     },
     {
-      "id": 3,
+      "id": "3",
       "question": "Which planet has the most moons?",
       "options": ["Earth", "Jupiter", "Saturn", "Neptune"],
       "answer": "Jupiter"
     },
     {
-      "id": 4,
+      "id": "4",
       "question": "What is a supernova?",
       "options": [
         "A collision of two stars",
@@ -38,7 +38,7 @@
       "answer": "The explosion of a star"
     },
     {
-      "id": 5,
+      "id": "5",
       "question": "Who was the first woman to travel into space?",
       "options": [
         "Sally Ride",
