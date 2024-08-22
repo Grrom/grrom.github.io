@@ -1,3 +1,9 @@
+{
+  "name": "Astronomy",
+  "image": "assets/images/astronomy.jpeg",
+  "description": "Test your knowledge of the cosmos",
+  "questions": [
+    {
       "id": 1,
       "question": "Which planet is known as the 'Red Planet'?",
       "options": ["Mercury", "Venus", "Mars", "Jupiter"],
